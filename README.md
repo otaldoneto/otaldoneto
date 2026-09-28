@@ -5,9 +5,9 @@
 </div>
 
 Each project below was picked to go deep on a specific set of backend concepts — auth & authorization, async
-messaging, caching, rate limiting — instead of being another generic CRUD. Every one is fully tested against real
-infrastructure (PostgreSQL, Redis, RabbitMQ via Testcontainers, not mocks) and documented with the reasoning behind
-its technical decisions.
+messaging, caching, rate limiting, real-time communication — instead of being another generic CRUD. Every one is
+fully tested against real infrastructure (PostgreSQL, Redis, RabbitMQ via Testcontainers, not mocks) and documented
+with the reasoning behind its technical decisions.
 
 <br>
 
@@ -55,6 +55,18 @@ URL shortener with a Redis cache-aside layer, click tracking, and an atomic Redi
 Includes Prometheus/Grafana dashboards and k6 load test results.
 
 `Java` `Spring Boot` `PostgreSQL` `Redis` `Prometheus` `Grafana`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 💬 [support-chat](https://github.com/otaldoneto/support-chat)
+Real-time support chat over WebSocket/STOMP — a customer and an agent exchange messages instantly, with presence
+tracking (who's online in each conversation) and full message history persisted in PostgreSQL. Includes an
+end-to-end test that drives two real STOMP clients over an actual WebSocket connection.
+
+`Java` `Spring Boot` `WebSocket` `STOMP` `PostgreSQL`
 
 </td>
 </tr>
