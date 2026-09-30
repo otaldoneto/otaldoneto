@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ismael+%F0%9F%91%8B;Backend-focused+developer;Java+%2B+Spring+Boot+%7C+TypeScript+%2B+Next.js;Building+a+portfolio%2C+one+real+system+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ismael+%F0%9F%91%8B;Fullstack+developer;Java+%2B+Spring+Boot+%7C+TypeScript+%2B+React;Building+a+portfolio%2C+one+real+system+at+a+time" alt="Typing SVG" />
 
 </div>
 
-Each project below was picked to go deep on a specific set of backend concepts — auth & authorization, async
-messaging, caching, rate limiting, real-time communication — instead of being another generic CRUD. Every one is
-fully tested against real infrastructure (PostgreSQL, Redis, RabbitMQ via Testcontainers, not mocks) and documented
-with the reasoning behind its technical decisions.
+Each project below goes deep on a specific set of concepts — auth & authorization, async messaging, caching, rate
+limiting, real-time communication, mobile — instead of being another generic CRUD, spanning Java/Spring backends,
+full-stack Next.js apps, and a React Native mobile client. Every backend project is fully tested against real
+infrastructure (PostgreSQL, Redis, RabbitMQ via Testcontainers, not mocks) and documented with the reasoning behind
+its technical decisions.
 
 <br>
 
@@ -87,6 +88,7 @@ React Native (Expo) client for job-tracker — same backend, running natively on
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
