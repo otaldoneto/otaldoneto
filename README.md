@@ -39,17 +39,6 @@ decoupled from whoever produces those events.
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [Service Order Dashboard](https://github.com/otaldoneto/service-order-dashboard)
-Read-only management dashboard for the API above, built as a Next.js BFF — server-rendered, calling the Java API
-under the hood.
-
-[![Live Demo](https://img.shields.io/badge/live_demo-vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://service-order-dashboard.vercel.app/)
-
-`Next.js` `TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
 ### 🔗 [url-shortener](https://github.com/otaldoneto/url-shortener)
 URL shortener with a Redis cache-aside layer, click tracking, and an atomic Redis/Lua token-bucket rate limiter.
 Includes Prometheus/Grafana dashboards and k6 load test results.
@@ -57,9 +46,7 @@ Includes Prometheus/Grafana dashboards and k6 load test results.
 `Java` `Spring Boot` `PostgreSQL` `Redis` `Prometheus` `Grafana`
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### 💬 [support-chat](https://github.com/otaldoneto/support-chat)
 Real-time support chat over WebSocket/STOMP — a customer and an agent exchange messages instantly, with presence
@@ -67,6 +54,25 @@ tracking (who's online in each conversation) and full message history persisted 
 end-to-end test that drives two real STOMP clients over an actual WebSocket connection.
 
 `Java` `Spring Boot` `WebSocket` `STOMP` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 [job-tracker](https://github.com/otaldoneto/job-tracker)
+Kanban-style job application tracker — drag-and-drop between and within columns, inline editing, and a stats page
+with charts, backed by a Next.js full-stack app with Prisma and Postgres.
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma`
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 [job-tracker-mobile](https://github.com/otaldoneto/job-tracker-mobile)
+React Native (Expo) client for job-tracker — same backend, running natively on iOS and Android from one codebase.
+
+`React Native` `Expo` `TypeScript`
 
 </td>
 </tr>
