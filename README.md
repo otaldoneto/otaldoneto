@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ismael+%F0%9F%91%8B;Fullstack+developer;Java+%2B+Spring+Boot+%7C+TypeScript+%2B+React;Building+a+portfolio%2C+one+real+system+at+a+time" alt="Typing SVG" />
 
-<a href="https://portfolio-site-dusky-three-19.vercel.app"><img src="https://img.shields.io/badge/portfolio-view_site-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://otaldoneto.vercel.app"><img src="https://img.shields.io/badge/portfolio-view_site-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 
 </div>
 
@@ -111,7 +111,7 @@ React Native (Expo) client for job-tracker — same backend, running natively on
 ## 📫 Let's connect
 
 <p>
-<a href="https://portfolio-site-dusky-three-19.vercel.app"><img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://otaldoneto.vercel.app"><img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 <a href="https://www.linkedin.com/in/ismaelneto22/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ghostfail2016@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
